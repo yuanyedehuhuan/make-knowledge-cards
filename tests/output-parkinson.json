@@ -1,0 +1,36 @@
+{
+  "source": "pasted text",
+  "card_count": 5,
+  "cards": [
+    {
+      "title": "Parkinson's Law",
+      "core_knowledge": "Work expands to fill the time available for its completion.",
+      "explanation": "The law states a direct relationship between available time and the amount of work a task consumes: the more time is allotted, the more of it the task will take. It is presented as the core statement from which the other observations follow.",
+      "example_or_self_test": "Self-test: If a task is given twice as much time as it strictly needs, what does Parkinson's Law predict will happen?"
+    },
+    {
+      "title": "Why Available Time Gets Filled",
+      "core_knowledge": "When a short task is given a long deadline, it tends to become more complex and fill the extra time, often through unnecessary busywork.",
+      "explanation": "The expansion is not caused by the task's real requirements but by work that grows to occupy the schedule. Giving a two-hour task a week typically results in added complexity and busywork that consumes the week.",
+      "example_or_self_test": "Example: A two-hour task scheduled over a week usually becomes more complicated and stretches to fill the week with unnecessary busywork."
+    },
+    {
+      "title": "Origin of the Law",
+      "core_knowledge": "The law was formulated by Cyril Northcote Parkinson as the opening line of a humorous 1955 essay in The Economist, based on his observations of the British civil service.",
+      "explanation": "The statement has a specific attributed source rather than being an anonymous proverb: Parkinson used his civil-service observations as material and published the line in 1955 in The Economist as an essay opener.",
+      "example_or_self_test": "Self-test: In what setting did Parkinson make the observations behind the law, and where was it published?"
+    },
+    {
+      "title": "Tight Deadlines Reduce Wasted Effort",
+      "core_knowledge": "Imposing tight, artificial deadlines is a practical way to reduce wasted effort, because when the available window shrinks, the work tends to shrink with it.",
+      "explanation": "Because work expands to fill available time, compressing that time works in reverse: a deliberately tight window pressures the task back toward its real size. This turns the descriptive law into an actionable management heuristic.",
+      "example_or_self_test": "Self-test: Using Parkinson's Law, what countermeasure could reduce unnecessary busywork on a task that tends to sprawl?"
+    },
+    {
+      "title": "A Heuristic, Not a Theorem",
+      "core_knowledge": "Parkinson's Law is an empirical observation and management heuristic, not a theorem; Parkinson himself presented it satirically rather than as rigorous science.",
+      "explanation": "The statement should be used as a practical rule of thumb rather than a proven, universally binding law. Its author framed it as humor and satire, so treating it as rigorous science would misrepresent the source.",
+      "example_or_self_test": "Self-test: Why would it be wrong to treat Parkinson's Law as a scientifically proven theorem?"
+    }
+  ]
+}

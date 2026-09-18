@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Cards Maker"
+  short_description: "Turn articles into 5-8 focused knowledge cards"
+  default_prompt: "Use $make-knowledge-cards to turn this article into a deck of knowledge cards."
